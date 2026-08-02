@@ -26,10 +26,10 @@ Each folder is a self-contained project with its own `README.md`.
     <td>✅ Done</td>
   </tr>
   <tr>
-    <td>—</td>
-    <td>03 · Multi-page Blog App</td>
+    <td><img src="./blog-app-router/docs/banner.png" width="150" /></td>
+    <td><a href="./blog-app-router">03 · Multi-page Blog App</a></td>
     <td>React Router, useParams, useNavigate</td>
-    <td>🔜 Planned</td>
+    <td>✅ Done</td>
   </tr>
   <tr>
     <td>—</td>

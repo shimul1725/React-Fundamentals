@@ -1,0 +1,18 @@
+/* Vite-er default index.css e ":root { color: rgba(255,255,255,0.87) }"
+   emon rakha thake, dark-mode dhore niye. Eta amader light background
+   e text ke prায় ostrishcho kore dicchilo - shei jonno eta shompurno
+   shaf (clean) kore dilam, App.css e shob color control hobe */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+}
+
+a {
+  color: inherit;
+}
