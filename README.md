@@ -21,9 +21,9 @@ Each folder is a self-contained project with its own `README.md`.
   </tr>
   <tr>
     <td>—</td>
-    <td>02 · GitHub User Finder (React)</td>
-    <td>useEffect, Data Fetching, Loading/Error States</td>
-    <td>🔜 Planned</td>
+    <td><a href="./github-finder-react">02 · GitHub User Finder (React)</a></td>
+    <td>useEffect, Custom Hooks, Props, Third-party Libraries (Chart.js)</td>
+    <td>✅ Done</td>
   </tr>
   <tr>
     <td>—</td>

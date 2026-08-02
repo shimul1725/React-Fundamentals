@@ -1,0 +1,148 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+body {
+  background: #0d1117;
+  color: #c9d1d9;
+}
+
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 22px;
+  line-height: 1.4;
+  margin-bottom: 20px;
+}
+
+.search-box {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+.search-box input {
+  flex: 1;
+  padding: 10px 14px;
+  border-radius: 6px;
+  border: 1px solid #30363d;
+  background: #161b22;
+  color: #fff;
+  font-size: 16px;
+}
+
+.search-box button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  background: #238636;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.search-box button:hover {
+  background: #2ea043;
+}
+
+.card {
+  background: #161b22;
+  border: 1px solid #30363d;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: left;
+}
+
+.card img {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  border: 2px solid #238636;
+  margin-bottom: 10px;
+}
+
+.card h2 {
+  margin-bottom: 5px;
+}
+
+.card p {
+  margin: 4px 0;
+  color: #8b949e;
+}
+
+.stats {
+  display: flex;
+  gap: 20px;
+  margin: 15px 0;
+}
+
+.stats span {
+  background: #21262d;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.repos {
+  margin-top: 15px;
+}
+
+.repos h3 {
+  margin-bottom: 8px;
+  font-size: 16px;
+}
+
+.repo-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+  border-bottom: 1px solid #21262d;
+}
+
+.repo-item a {
+  color: #58a6ff;
+  text-decoration: none;
+}
+
+.repo-item a:hover {
+  text-decoration: underline;
+}
+
+.error {
+  color: #f85149;
+  font-weight: bold;
+  text-align: center;
+}
+
+.chart-wrapper {
+  margin-top: 20px;
+  max-width: 220px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.chart-wrapper h3 {
+  font-size: 16px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.no-lang {
+  color: #8b949e;
+  font-size: 13px;
+  margin-top: 15px;
+}
+
+.loading {
+  color: #8b949e;
+  text-align: center;
+} 
