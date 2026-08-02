@@ -20,7 +20,7 @@ Each folder is a self-contained project with its own `README.md`.
     <td>✅ Done</td>
   </tr>
   <tr>
-    <td>—</td>
+    <td><img src="./github-finder-react/docs/banner.png" width="150" /></td>
     <td><a href="./github-finder-react">02 · GitHub User Finder (React)</a></td>
     <td>useEffect, Custom Hooks, Props, Third-party Libraries (Chart.js)</td>
     <td>✅ Done</td>
