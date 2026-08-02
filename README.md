@@ -32,10 +32,10 @@ Each folder is a self-contained project with its own `README.md`.
     <td>✅ Done</td>
   </tr>
   <tr>
-    <td>—</td>
-    <td>04 · Theme + Auth Context App</td>
+    <td><img src="./theme-auth-context/docs/banner.png" width="150" /></td>
+    <td><a href="./theme-auth-context">04 · Theme + Auth Context App</a></td>
     <td>Context API, Global State</td>
-    <td>🔜 Planned</td>
+    <td>✅ Done</td>
   </tr>
 </table>
 
